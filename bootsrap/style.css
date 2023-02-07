@@ -1,0 +1,22 @@
+.dropdown-item {
+    color: black;
+    background-color: blue;
+}
+
+.h-i{
+    height: inherit;
+    
+
+}
+.card{
+    margin: 0 auto;
+    /* padding: 10px 0; */
+}
+.card-img{
+    margin: 50px 0;
+}
+.carousel-item img{
+width: 100%;
+height: 620px;
+}
+
